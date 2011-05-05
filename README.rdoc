@@ -71,7 +71,7 @@ A Rails plugin which provides a hook to preview and map the fields of an uploade
 
 == REQUIREMENTS:
 
-* FasterCSV
+* Ruby 1.9.2
 
 == INSTALL:
 
@@ -85,7 +85,7 @@ or
 
 (The MIT License)
 
-Copyright (c) 2009
+Copyright (c) 2011
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
